@@ -1,1 +1,1 @@
-# Storing-and-Retrieving-Data-MySQL
+# Storing and Retrieving Data - MySQL
