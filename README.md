@@ -1,4 +1,5 @@
 # Storing and Retrieving Data - MySQL
+Third project developed for the NOVA IMS master course Data Science and Advanced Analytics.
 > Curricular Unit - Storing and Retrieving Data <br>
 > Date - Fall semester of the academic year 2022/2023
 ## Project description
